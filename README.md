@@ -29,9 +29,9 @@ Savage is a secure messaging application enhanced with user authentication. User
    ```
 3. Start the server:
    ```bash
-   npm start
+   node server.js
    ```
-4. Access the application at `http://localhost:3000` or the designated port.
+4. Access the application at `http://localhost:8080` or the designated port.
 
 ## Usage
 
@@ -50,4 +50,3 @@ We welcome contributions to enhance the Savage messaging app:
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. Create a new Pull Request.
-# savage-auth
